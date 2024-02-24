@@ -1,0 +1,98 @@
+*{
+    padding:0;
+    margin: 0;
+    color:white;
+}
+#navbar{
+    height: 60px;
+    background-color:#0f1111;
+}
+
+button{
+    background-color: #f08801;
+}
+#logo{
+    color:#f08801;
+    font-size: 25px;
+    margin-right :200px;
+    text-decoration: none;
+}
+
+#ins{
+    margin-right :200px;
+    text-decoration: none;
+    color: pink;
+}
+#gmap{
+
+    margin-right :200px;
+    text-decoration: none;
+    color: cornflowerblue;
+} 
+#con{
+    margin-right :200px;
+    text-decoration: none;
+    color:lightgreen;
+}
+
+#img{
+    height: 250px;
+    width:250px;
+ 
+    display: inline;
+}
+#clg{
+    height: 250px;
+    width:250px;
+  
+    
+}#bca{
+    height: 250px;
+    width:250px;
+
+ 
+    
+}
+#car{
+    
+    padding:100px 80px 100px 80px;
+    text-decoration:none;
+
+  
+}
+#ok
+{
+    border-width:10px;
+    border-color:#de0b00;
+    border-radius: 50%;
+    width: 100%;
+    height: 800px;
+
+
+}
+
+#know{
+    font-size:40px;
+     margin-left: 520px;
+     border-radius:150px;
+     background-color: rgb(83, 129, 130);
+     width: 300px;
+     height: 100px;
+}
+
+#foot{
+    color: black;
+ 
+    height: 60px;
+    background-color: rgba(144, 194, 255, 0.635);
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    font-size: 40px;
+ 
+
+}
+h4
+{
+    font-size: 80px;
+   padding-left:500px;
+}
